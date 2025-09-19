@@ -4,11 +4,13 @@ I'm a passionate **student** exploring the world of code—from pixel-perfect UI
 
 ## 🚀 About Me
 
-- 💻 **Frontend Dev:** Building interactive experiences with **React** & **TypeScript**
-- 🔌 **Embedded Engineer:** Crafting efficient solutions in **C/C++**
+- 💻 **Fullstack Dev:** Building interactive experiences with **React** & **TypeScript** and backends with **Go**
+- 🔌 **Embedded Engineer:** Crafting efficient solutions in **C/C++**, **Rust**
 - 🎨 **Graphical Programmer:** Blending creativity with code, from visual tools to real-time rendering
 
 ## 🏆 Featured Projects
+
+- 🎓 **classtest.ai** Co-Creator of a startup that helps teachers and students 
 
 - 🎮 **Game Boy Emulator:**  
   Recreated classic gaming in C/C++—from CPU cycles to screen pixels!
