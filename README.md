@@ -23,8 +23,7 @@ _(Want to see more? Check my pinned projects or [phrl.dev](https://phrl.dev)!)_
 ## 🛠️ Languages & Tools
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
 ---
