@@ -16,8 +16,6 @@ I'm a passionate **student** exploring the world of code—from pixel-perfect UI
 - 🕹️ **Custom Game Engine:**  
   Built a flexible engine for rapid prototyping and graphical experiments.
 
-_(Want to see more? Check my pinned projects or [phrl.dev](https://phrl.dev)!)_
-
 ---
 
 ## 🛠️ Languages & Tools
