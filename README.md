@@ -10,9 +10,6 @@ I'm a passionate **student** exploring the world of code—from pixel-perfect UI
 
 ## 🏆 Featured Projects
 
-- 🎓 **classtest.ai:**
-  Co-Creator of a startup that helps teachers and students 
-
 - 🎮 **Game Boy Emulator:**  
   Recreated classic gaming in C/C++—from CPU cycles to screen pixels!
 
